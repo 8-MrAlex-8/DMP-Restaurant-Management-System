@@ -1,0 +1,64 @@
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.exe.config
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.exe
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.xml
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.pdb
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.exe
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.pdb
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.xml
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\IBM.Data.DB2.dll
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.vbprojResolveAssemblyReference.cache
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVAllDeliveries.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVAllOrders.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVEmpListFrmDel.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVEmpListFrmRelease.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVThisDelivery.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVThisOrder.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVEmpListFrmOrder.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmDeliveryTran.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmCustList.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmEmployee.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmIngredients.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmOrder.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmReleaseRec.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmSalesList.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmReceipt.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmIndex.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmSupplier.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.MenuItemInventory.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.Resources.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmRecSale.resources
+C:\Users\Lanz\OneDrive - ust.edu.ph\Desktop\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.vbproj.GenerateResource.Cache
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.exe.config
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.exe
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.xml
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.pdb
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.exe.config
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.exe
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.xml
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.pdb
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.exe
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.pdb
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\DagoyMaltoPorol.xml
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\bin\Debug\IBM.Data.DB2.dll
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.vbprojResolveAssemblyReference.cache
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVAllDeliveries.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVAllOrders.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVEmpListFrmDel.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVEmpListFrmRelease.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVThisDelivery.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVThisOrder.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.DGVEmpListFrmOrder.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmDeliveryTran.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmCustList.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmEmployee.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmIngredients.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmOrder.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmReleaseRec.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmSalesList.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmReceipt.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmIndex.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmSupplier.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.MenuItemInventory.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.Resources.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.FrmRecSale.resources
+C:\Users\Gilbert\OneDrive\Desktop\CCS 5 FILES\CCS 5 FINAL PROJECT-v2-20240610T075320Z-001\CCS 5 FINAL PROJECT-v2\DagoyMaltoPorol\obj\Debug\DagoyMaltoPorol.vbproj.GenerateResource.Cache

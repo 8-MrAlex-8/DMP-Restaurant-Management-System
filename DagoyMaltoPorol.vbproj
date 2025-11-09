@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF7D97EC-02E7-4E55-B976-A661A284A8DF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DagoyMaltoPorol.My.MyApplication</StartupObject>
+    <RootNamespace>DagoyMaltoPorol</RootNamespace>
+    <AssemblyName>DagoyMaltoPorol</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DagoyMaltoPorol.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DagoyMaltoPorol.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IBM.Data.DB2, Version=9.7.4.4, Culture=neutral, PublicKeyToken=7c307b91aa13d208, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\IBM\SQLLIB\BIN\netf40\IBM.Data.DB2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DGVAllDeliveries.Designer.vb">
+      <DependentUpon>DGVAllDeliveries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DGVAllDeliveries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DGVAllOrders.designer.vb">
+      <DependentUpon>DGVAllOrders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DGVAllOrders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DGVEmpListFrmDel.Designer.vb">
+      <DependentUpon>DGVEmpListFrmDel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DGVEmpListFrmDel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DGVEmpListFrmRelease.Designer.vb">
+      <DependentUpon>DGVEmpListFrmRelease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DGVEmpListFrmRelease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DGVThisDelivery.Designer.vb">
+      <DependentUpon>DGVThisDelivery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DGVThisDelivery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DGVThisOrder.designer.vb">
+      <DependentUpon>DGVThisOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DGVThisOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DGVEmpListFrmOrder.Designer.vb">
+      <DependentUpon>DGVEmpListFrmOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DGVEmpListFrmOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeliveryTran.designer.vb">
+      <DependentUpon>FrmDeliveryTran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeliveryTran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCustList.Designer.vb">
+      <DependentUpon>FrmCustList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCustList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmployee.Designer.vb">
+      <DependentUpon>FrmEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIngredients.Designer.vb">
+      <DependentUpon>FrmIngredients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIngredients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrder.designer.vb">
+      <DependentUpon>FrmOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReleaseRec.designer.vb">
+      <DependentUpon>FrmReleaseRec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReleaseRec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSalesList.Designer.vb">
+      <DependentUpon>FrmSalesList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSalesList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReceipt.Designer.vb">
+      <DependentUpon>FrmReceipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReceipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIndex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIndex.Designer.vb">
+      <DependentUpon>FrmIndex.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSupplier.Designer.vb">
+      <DependentUpon>FrmSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuItemInventory.Designer.vb">
+      <DependentUpon>MenuItemInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuItemInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FrmRecSale.Designer.vb">
+      <DependentUpon>FrmRecSale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRecSale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DGVAllDeliveries.resx">
+      <DependentUpon>DGVAllDeliveries.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DGVAllOrders.resx">
+      <DependentUpon>DGVAllOrders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DGVEmpListFrmDel.resx">
+      <DependentUpon>DGVEmpListFrmDel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DGVEmpListFrmRelease.resx">
+      <DependentUpon>DGVEmpListFrmRelease.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DGVThisDelivery.resx">
+      <DependentUpon>DGVThisDelivery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DGVThisOrder.resx">
+      <DependentUpon>DGVThisOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DGVEmpListFrmOrder.resx">
+      <DependentUpon>DGVEmpListFrmOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeliveryTran.resx">
+      <DependentUpon>FrmDeliveryTran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCustList.resx">
+      <DependentUpon>FrmCustList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmployee.resx">
+      <DependentUpon>FrmEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIngredients.resx">
+      <DependentUpon>FrmIngredients.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrder.resx">
+      <DependentUpon>FrmOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReleaseRec.resx">
+      <DependentUpon>FrmReleaseRec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSalesList.resx">
+      <DependentUpon>FrmSalesList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReceipt.resx">
+      <DependentUpon>FrmReceipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIndex.resx">
+      <DependentUpon>FrmIndex.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSupplier.resx">
+      <DependentUpon>FrmSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuItemInventory.resx">
+      <DependentUpon>MenuItemInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRecSale.resx">
+      <DependentUpon>FrmRecSale.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle-dollar-sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\handshake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar-chart-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\004.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\005.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\006.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\007.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\009.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\010.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\011.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\012.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\013.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\014.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\016.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D-02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D-03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D-04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\square-check-big.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\008.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-round.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle-help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dmp2.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
